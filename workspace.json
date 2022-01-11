@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "kodakmafia": "apps/kodakmafia",
+    "kodakmafia-e2e": "apps/kodakmafia-e2e"
+  }
+}
